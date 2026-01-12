@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "ActFoE++ Standard"
+message: "If you use ActFoE++ in your research, governance work, or technical development, please cite this repository."
+type: software
+authors:
+  - family-names: "Maldfrey"
+    given-names: ""
+repository-code: "https://github.com/maldfrey/ActFoE-Standard"
+url: "https://github.com/maldfrey/ActFoE-Standard"
+license: "CC-BY-4.0"
+version: "1.0.0"
+date-released: "2026-01-12"
+abstract: >
+  ActFoE++ is an open, citable grounding architecture designed to stabilize interpretation
+  and prevent drift in advanced AI systems. This repository contains the authoritative
+  specification, including the monograph, whitepaper, executive summary, and foundational
+  boot file.
