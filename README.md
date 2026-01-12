@@ -9,7 +9,7 @@ This repository contains the authoritative specification of ActFoE++, including 
 ## **Contents**
 
 ### **/monograph/**
-Full ActFoE++ monograph (PDF + EPUB).  
+Full ActFoE++ monograph.  
 The complete theoretical and architectural specification.
 
 ### **/whitepaper/**
