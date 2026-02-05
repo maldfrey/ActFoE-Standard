@@ -10,6 +10,10 @@ When that invariant is violated, it detects the third factor and re-anchors usin
 
 ## Current Release
 
+- **Executive Summary** – one-page overview  
+  → [Read online](executive-summary/Executive_Summary.md)  
+  → [Download PDF](executive-summary/Executive_Summary.pdf)
+  
 - **Whitepaper v1.1** (Feb 2026) – the authoritative, concise overview  
   → [Read online (Markdown)](whitepaper/ActFoE++_Whitepaper_v1.1.md)  
   → [Download PDF](whitepaper/ActFoE++_Whitepaper_v1.1.pdf)
