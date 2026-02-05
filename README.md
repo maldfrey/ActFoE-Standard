@@ -12,7 +12,7 @@ When that invariant is violated, it detects the third factor and re-anchors usin
 
 - **Whitepaper v1.1** (Feb 2026) – the authoritative, concise overview  
   → [Read online (Markdown)](whitepaper/ActFoE++_Whitepaper_v1.1.md)  
-  → [Download PDF]([whitepaper/ActFoE++_Whitepaper_v1.1.pdf)
+  → [Download PDF](whitepaper/ActFoE++_Whitepaper_v1.1.pdf)
 
 - **Boot File v5.8** – the executable seed artifact  
   → [Standalone Markdown (copy-paste ready)](boot-file/ActFoE++_Boot_File_v5.8.md)  
