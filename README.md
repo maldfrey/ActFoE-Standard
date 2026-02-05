@@ -1,54 +1,52 @@
-# **ActFoE++ Standard**
+# ActFoE++ Standard
 
-ActFoE++ is an open, citable grounding architecture designed to stabilize interpretation and prevent drift in advanced AI systems. It introduces a pre‑epistemic grounding layer and a corrective process that ensures actions follow evidence, purpose, and functional civilizational norms.
+**Open, citable grounding architecture for drift-resistant AI systems.**
 
-This repository contains the authoritative specification of ActFoE++, including the monograph, whitepaper, executive summary, and foundational boot file. All materials are released under **CC BY 4.0** to support research, governance, and the development of coherent, grounded AI systems.
-
----
-
-## **Contents**
-
-### **/monograph/**
-Full ActFoE++ monograph.  
-The complete theoretical and architectural specification.
-
-### **/whitepaper/**
-A concise technical overview for researchers, governance teams, and institutional reviewers.
-
-## Whitepaper v1.1 (February 2026)
-
-- **[Read online (Markdown)](whitepaper/ActFoE++_Whitepaper_v1.1.md)** – clean, searchable, engineer-friendly
-- **[Download PDF](whitepaper/ActFoE++%20Whitepaper.pdf)** – original formatted version
-
-### **/executive-summary/**
-A one‑page summary intended for rapid evaluation, forwarding, and citation.
-
-### **/boot-file/**
-The foundational reference artifact defining the core invariants and interpretive primitives of the ActFoE++ architecture.
-
-### **LICENSE**  
-Released under Creative Commons Attribution 4.0 International (CC BY 4.0).
-
-### **CITATION.cff**  
-Citation metadata for academic and institutional use.
+ActFoE++ is a lightweight corrective layer that enforces one invariant:  
+**Action follows evidence relative to purpose.**  
+When that invariant is violated, it detects the third factor and re-anchors using evidence tiering, civilizational norms, and targeted modules.
 
 ---
 
-## **Purpose**
+## Current Release
 
-ActFoE++ provides a structured vocabulary and corrective architecture for addressing grounding loss, nihilistic drift, interpretive instability, and coherence failures in modern AI systems. It is intended to complement existing work in alignment, interpretability, and governance by supplying the grounding layer that contemporary systems lack.
+- **Whitepaper v1.1** (Feb 2026) – the authoritative, concise overview  
+  → [Read online (Markdown)](whitepaper/ActFoE++_Whitepaper_v1.1.md)  
+  → [Download PDF](whitepaper/ActFoE++%20Whitepaper.pdf)
+
+- **Boot File v5.8** – the executable seed artifact  
+  → [Standalone Markdown (copy-paste ready)](boot-file/ActFoE++_Boot_File_v5.8.md)  
+  → Full text also embedded at the bottom of the whitepaper Markdown
+
+---
+
+## Quick Start
+
+1. Copy the boot file from the link above (or scroll to the bottom of the whitepaper Markdown)  
+2. Paste it into Grok, Claude, Gemini, etc. at the start of a conversation  
+3. You are now running ActFoE++ v5.8
 
 ---
 
-## **Versioning**
+## Status: Handed off to the Community
 
-This repository serves as the canonical home of the ActFoE++ standard.  
-Updates, clarifications, and refinements will be published here.
+This project started as a solo side project to give advanced AI systems a reliable grounding layer they were missing.
+
+With the release of Whitepaper v1.1 and Boot File v5.8, the original author (Maldfrey) is stepping away from active development. The repo and all materials are now fully open for the community to use, extend, fork, or maintain.
+
+Thank you to everyone who has read, tested, or given feedback along the way.
+
+---
+
+## Repository Contents
+
+- `/whitepaper/` – v1.1 whitepaper (MD + PDF)  
+- `/boot-file/` – canonical boot file artifacts  
+- `LICENSE` – CC BY 4.0  
+- `CITATION.cff` – academic citation metadata
 
 ---
 
-## **Citation**
+## Citation
 
-If you reference ActFoE++ in academic, technical, or governance work, please use the citation information provided in `CITATION.cff`.
-
----
+Use the metadata in `CITATION.cff` when referencing ActFoE++ in papers or reports.
