@@ -23,8 +23,8 @@ When that invariant is violated, it detects the third factor and re-anchors usin
   → Full text also embedded at the bottom of the whitepaper Markdown
 
 - **Monograph v1.0** (~25 pages) – expanded technical treatment, full derivations, examples, and lenses  
-  → [Read online (Markdown)](ActFoE++_A_Corrective_Architecture_for_Drift-Resistant_Reasoning.md)  
-  → [Download PDF](ActFoE++_A_Corrective_Architecture_for_Drift-Resistant_Reasoning.pdf)
+  → [Read online (Markdown)](monograph/ActFoE++_A_Corrective_Architecture_for_Drift-Resistant_Reasoning.md)  
+  → [Download PDF](monograph/ActFoE++_A_Corrective_Architecture_for_Drift-Resistant_Reasoning.pdf)
 
 ---
 
