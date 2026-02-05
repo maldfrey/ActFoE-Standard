@@ -15,6 +15,11 @@ The complete theoretical and architectural specification.
 ### **/whitepaper/**
 A concise technical overview for researchers, governance teams, and institutional reviewers.
 
+## Whitepaper v1.1 (February 2026)
+
+- **[Read online (Markdown)](whitepaper/ActFoE++_Whitepaper_v1.1.md)** – clean, searchable, engineer-friendly
+- **[Download PDF](whitepaper/ActFoE++%20Whitepaper.pdf)** – original formatted version
+
 ### **/executive-summary/**
 A one‑page summary intended for rapid evaluation, forwarding, and citation.
 
