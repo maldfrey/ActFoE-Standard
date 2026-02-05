@@ -48,7 +48,9 @@ Thank you to everyone who has read, tested, or given feedback along the way.
 
 ## Repository Contents
 
+- `/executive-summary/` – one-page summary  
 - `/whitepaper/` – v1.1 whitepaper (MD + PDF)  
+- `/monograph/` – v1.1 concise monograph  
 - `/boot-file/` – canonical boot file artifacts  
 - `LICENSE` – CC BY 4.0  
 - `CITATION.cff` – academic citation metadata
